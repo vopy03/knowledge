@@ -1,0 +1,4 @@
+q1 = a1
+q2 = a1
+minusMarkValue = 0
+member_name = Вова Пилипчук

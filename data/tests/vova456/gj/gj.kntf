@@ -1,0 +1,139 @@
+sconfig
+filename = gj
+date_of_creating = 2022.05.30
+time = 10:00
+attempts = 3
+max_leave_count = 5
+mlc_action = warning
+mlc_blur = true
+widget_calc = true
+show_ans_mode = ALLCHECK
+econfig
+
+squestions
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a2
+[eQCFG]
+[A]Варіант 1
+[A]Варіант 2
+[A]Варіант 3
+[Q]Питання
+[sQCFG]
+type = checkbox
+ra = a1-a2 
+[eQCFG]
+[A]Варіант 1
+[A]Варіант 2
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = checkbox
+ra = a1-a3 
+[eQCFG]
+[A]Варіант 1
+[A]Варіант 2
+[A]Варіант 3
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+equestions

@@ -1,0 +1,5 @@
+q1 = a1
+q2 = a1
+minusMarkValue = 0
+leave_count = 2
+member_name = Петя Простоквашино

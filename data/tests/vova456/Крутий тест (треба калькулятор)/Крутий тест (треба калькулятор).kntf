@@ -1,0 +1,55 @@
+sconfig
+filename = Крутий тест (треба калькулятор)
+date_of_creating = 2022.06.09
+time = 5:00
+attempts = 3
+max_leave_count = 4
+mlc_action = lowerMarkOnce
+mlc_action_value = 20
+mlc_blur = true
+widget_calc = true
+show_ans_mode = ALLCORRECT
+econfig
+
+squestions
+[Q]Шо таке квадрат
+[sQCFG]
+type = radio
+ra = a3
+[eQCFG]
+[A]4
+[A]Круг
+[A]Немає правильної відповіді
+[Q]Всьо таки шо таке квадра
+[sQCFG]
+type = checkbox
+ra = a1-a2 
+[eQCFG]
+[A]Ну квадрат, 4 сторони
+[A]Вобше то да
+[A]Варіант 3
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+equestions

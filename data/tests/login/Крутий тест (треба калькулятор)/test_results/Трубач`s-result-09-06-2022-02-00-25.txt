@@ -1,0 +1,11 @@
+q1 = a3
+q2 = a1-a3
+q3 = a1
+q4 = a1
+q5 = a1
+q6 = a1
+minusMarkValue = 0
+mins = 1
+secs = 5
+leave_count = 3
+member_name = Трубач

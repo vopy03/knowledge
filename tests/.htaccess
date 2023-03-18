@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteRule ^p/([0-9a-zA-Z]+)$ pages/testPage.php?testId=$1 [L]
+RewriteRule ^c/([0-9a-zA-Z]+)$ pages/testCompletePage.php?testId=$1 [L]
+RewriteRule ^s/([0-9a-zA-Z]+)$ pages/testStartPage.php?testId=$1 [L]
+RewriteRule ^s/([0-9a-zA-Z]+)-([0-9]+)$ pages/testStartPage.php?testId=$1&noA=$2 [L]
+RewriteRule ^vr/([0-9a-zA-Z]+)$ pages/testViewResults.php?testId=$1 [L]
+RewriteRule ^vr/([0-9a-zA-Z]+)-([0-9a-zA-Z]+)$ pages/testViewResults.php?testId=$1&secondId=$2 [L]
+RewriteRule ^vr/([0-9a-zA-Z]+)-([0-9a-zA-Z]+)-([0-9a-zA-Z]+)$ pages/testViewResults.php?testId=$1&secondId=$2&thirdId=$3 [L]
+
+RewriteRule index index.php

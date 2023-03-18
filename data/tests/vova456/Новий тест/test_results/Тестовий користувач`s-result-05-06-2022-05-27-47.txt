@@ -1,0 +1,7 @@
+q1 = a3
+q2 = a2
+minusMarkValue = 0
+mins = 0
+secs = 12
+leave_count = 0
+member_name = Тестовий користувач

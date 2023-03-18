@@ -1,0 +1,26 @@
+sconfig
+filename = lc
+date_of_creating = 07.05.2022
+attempts = 3
+max_leave_count = 5
+mlc_action = warning
+mlc_blur = false
+widget_calc = false
+show_ans_mode = ALLCHECK
+econfig
+
+squestions
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+[A]Варіант 2
+[Q]Питання
+[sQCFG]
+type = radio
+ra = a1
+[eQCFG]
+[A]Варіант 1
+equestions

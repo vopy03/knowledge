@@ -1,0 +1,31 @@
+sconfig							
+filename = Новий тест		
+date_of_creating = 2022.06.05	
+time = 10:00					
+attempts = 3				
+max_leave_count = 5 		
+mlc_action = warning			
+mlc_blur = true				
+widget_calc = true				
+show_ans_mode = ALLCHECK		
+econfig						
+
+squestions					
+[Q]Квадрат числа 2 			
+[sQCFG]						
+type = radio		
+ra = a1						
+[eQCFG]							
+[A]4 						
+[A]2 						
+[A]Немає правильної відповіді 
+[Q]Питання 2 					 
+[sQCFG]							
+type = checkbox				
+ra = a1-a3					
+[eQCFG]							
+[A]Варіант 1 					
+[A]Варіант 2 					
+[A]Варіант 3 					
+equestions						
+
